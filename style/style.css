@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+body {
+  background: #000000 url("/img/city.gif") repeat;
+  text-align: center;
+  
+}
+.logo {
+    max-width: 90px;
+    margin-top: 20px;
+    filter: invert(100%);   
+   }
+   
+.crono {
+       font-size: 1000%;
+       text-align: center;
+       font-family: 'DotGothic16', sans-serif;
+       color:rgb(255, 255, 255);      
+   }
+
+.relogio {
+  text-shadow: 2px -3px 5px black; 
+}
+
+.btn-relax {
+  background-color: rgb(252, 252, 252);
+  font-family: 'arial';
+  font-weight: 600;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  box-shadow: 10px;
+  
+}
+
+.btn-relax:hover {
+  background-color: rgb(204, 204, 204);
+
+}
+
+.btn-relax:active {
+  background-color: rgb(145, 145, 145);
+}
+
+.center {
+       padding-top: 10px;
+   }
+   
+   
